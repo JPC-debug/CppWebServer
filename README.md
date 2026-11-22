@@ -105,7 +105,7 @@ nano ~/.cppwebserver.env
 export MYSQL_PASSWORD="your_password"
 ```
 
-请将 `your_password` 替换为自己的数据库密码，不要将真实密码提交到 GitHub。
+请将 `your_password` 替换为自己的数据库密码。
 
 启动服务：
 
