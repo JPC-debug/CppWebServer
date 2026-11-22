@@ -1,0 +1,24 @@
+
+# 编译产物
+/build/
+/server
+*.o
+*.out
+
+# 测试可执行文件
+/tests/mysql_pool_multithread_test
+
+# 备份文件
+*.bak
+*.swp
+
+# 日志文件
+*.log
+
+# 本地配置和敏感信息
+.env
+.env.*
+!.env.example
+
+# IDE配置
+.vscode/
